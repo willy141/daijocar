@@ -1,0 +1,1 @@
+crear un programa para un taller mecanico en el cual se almacenen los datos de los clientes nombre y apellido numero de telefono correo electronico direccion donde vive, datos de proveedores, datos de automoviles por marca y patentes con fecha de ingreso, trabajos realizados

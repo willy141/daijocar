@@ -1,0 +1,9 @@
+{
+  "name": "daijocar",
+  "title": "DAIJOCAR | Taller mecánico",
+  "description": "Gestión local de clientes, proveedores, vehículos y trabajos del taller",
+  "icon": "icon.svg",
+  "plugin": {
+    "menu": []
+  }
+}

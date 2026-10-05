@@ -1,0 +1,3 @@
+app/data/db.json
+app/data/*.tmp
+app/node_modules/
